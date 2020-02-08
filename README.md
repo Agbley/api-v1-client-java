@@ -35,9 +35,10 @@ Add the following to your pom.xml:
         <dependency>
   	        <groupId>info.blockchain</groupId>
   	        <artifactId>api</artifactId>
-  	        <version>LATEST</version> <!-- for a specific version see the list of tags -->
+  	        <version> LATEST </version> <!-- for a specific version see the list of tags -->
         </dependency>
-    <dependencies>
+    
+        <dependencies>
     ...
 </project>
 ```
